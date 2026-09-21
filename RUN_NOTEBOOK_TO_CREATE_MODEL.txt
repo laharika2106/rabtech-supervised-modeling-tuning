@@ -1,0 +1,1 @@
+Run supervised-modeling-tuning.ipynb from top to bottom. The final serialization cell creates champion_model.joblib. Then upload champion_model.joblib to GitHub before submitting Task 04.
